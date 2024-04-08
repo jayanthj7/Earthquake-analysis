@@ -1,6 +1,6 @@
 
 **Earthquake Analysis Project**
-Overview
+
 This project aims to analyze earthquake data obtained through the United States Geological Survey (USGS) API using Python. The analysis explores various aspects of earthquake occurrences such as frequency, magnitude, and distribution, with the goal of gaining insights into seismic event patterns and correlations with natural phenomena.
 
 Project Components
